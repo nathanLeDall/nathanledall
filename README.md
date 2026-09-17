@@ -168,22 +168,17 @@ Networking                  Algorithms & Data Structures
 
 ---
 
-## 📊 GitHub Stats
+## What I Build
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanLeDall&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanLeDall&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+I enjoy working on projects that combine software engineering with lower-level technical concepts, including:
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathanLeDall&theme=github-dark&hide_border=true" />
-</p>
-
----
+- Backend systems and REST APIs
+- Artificial intelligence and machine learning
+- Linux infrastructure and self-hosting
+- Distributed systems and containers
+- Computer graphics
+- Algorithms and data structures
+- Cybersecurity and networking
 
 ## 🤝 Connect With Me
 
