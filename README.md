@@ -19,10 +19,10 @@ I enjoy building projects from the ground up and understanding how things work u
 `Rust` `Python` `C++` `Java` `TypeScript` `JavaScript` `SQL`
 
 **Backend & Web:**  
-`Actix Web` `React` `REST APIs` `PostgreSQL`
+`Actix Web` `React` `REST APIs` `PostgreSQL` `vite.js`
 
 **Infrastructure & Tools:**  
-`Linux` `Docker` `Kubernetes` `Git` `GitHub` `AWS`
+`Linux` `Docker` `Kubernetes` `Git` `GitHub` `AWS` `CI?CD` `GCP`
 
 ## Areas of Interest
 
